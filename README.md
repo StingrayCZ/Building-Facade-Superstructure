@@ -8,9 +8,7 @@ The superstructure represent a facade of the parisien department store house Pri
 ## Main view
 <p float="left">
   <img src="/Picture/Wall 1.PNG" width="900" /> 
-<p float="left">
-  <img src="/Picture/Wall 3.PNG" width="900" /> 
   
 ## Detail on aluminium sheet and frame
 <p float="left">
-  <img src="/Picture/Wall 1.PNG" width="900" /> 
+  <img src="/Picture/Plate&Frame.PNG" width="900" /> 
