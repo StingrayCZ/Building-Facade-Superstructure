@@ -7,7 +7,7 @@ The superstructure represent a facade of the parisian department store house Pri
 ## Real View
 Photo by Michael Denance.
 <p float="left">
-  <img src="/Picture/PrintempsHaussmann-MichelDenance.jpg" width="450" /> 
+  <img src="/Picture/PrintempsHaussmann-MichelDenance.jpg" width="470" /> 
   <img src="/Picture/RealityDetail.jpg" width="400" /> 
 </p>
 
