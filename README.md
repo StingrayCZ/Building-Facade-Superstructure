@@ -4,6 +4,13 @@ This project have been made for Printemps — french depapartment store, accordi
 
 The superstructure represent a facade of the parisian department store house Printemps Haussmann Verticalité
 
+## Detail on aluminium sheet and frame
+Photo by Michael Denance.
+<p float="left">
+  <img src="/Picture/PrintempsHaussmann-MichelDenance.jpg" width="600" /> 
+<p float="left">
+  <img src="/Picture/RealityDetail.jpg" width="600" /> 
+</p>
 
 ## Main view
 <p float="left">
