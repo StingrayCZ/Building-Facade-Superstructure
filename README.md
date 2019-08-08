@@ -8,7 +8,7 @@ The superstructure represent a facade of the parisian department store house Pri
 Photo by Michael Denance.
 <p float="left">
   <img src="/Picture/PrintempsHaussmann-MichelDenance.jpg" width="460" /> 
-  <img src="/Picture/RealityDetail.jpg" width="400" /> 
+  <img src="/Picture/RealityDetail.jpg" width="380" /> 
 </p>
 
 ## Main view
