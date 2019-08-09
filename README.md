@@ -1,8 +1,8 @@
 # Building Facade Superstructure
 
-This project have been made for Printemps — french depapartment store, according to design of [UUfie](http://www.uufie.com/all/printemps-haussmann-verticalite/). Manufacturer was [Sipral, a.s.](http://www.sipral.cz/en/home) — czech company which made proposal and able to manage production steel or aluminium facades of building.
+This project was made for Printemps, a French department store, according to a design by [UUfie](http://www.uufie.com/all/printemps-haussmann-verticalite/). The manufacturer was [Sipral, a.s.](http://www.sipral.cz/en/home), the Czech company which created the proposal and can manage production facades of buildings from steel or aluminium materials.
 
-The superstructure represent a facade of the parisian department store house Printemps Haussmann Verticalité
+The superstructure represents a facade of the Parisian department store Printemps Haussmann Verticalité.
 
 ## Real View
 Photo by Michael Denance.
