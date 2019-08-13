@@ -16,9 +16,11 @@ Photo by Michael Denance.
 ## Main view
 <p float="left">
   <img src="/Picture/Wall 1.PNG" width="900" /> 
-  
+</p>
 ## Detail on aluminium sheet and frame
 <p float="left">
-  <img src="/Picture/Plate&Frame.PNG" width="900" /> 
+  <img src="/Picture/Plate&Frame.PNG" width="900" />
+</p>
 <p float="left">
   <img src="/Picture/Plate&Frame (detail).PNG" width="900" /> 
+</p>
